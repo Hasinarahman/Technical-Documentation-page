@@ -8,15 +8,6 @@
 
   my project stand on html and css.
 
-```html
-- use the code like: p > this a paragraph element in HTML < /p >
-
-
-```css
-- use the code for styleling the page like: 
-p { text - align: is the CSS selector applied to align text of the paragraph element }
-
-
 
 ## Technologies Used 🛠️
 
@@ -28,13 +19,13 @@ p { text - align: is the CSS selector applied to align text of the paragraph ele
 
 
 You can also get the code of this project in your locla machine by this command:
-- git clone "your ssh key"
-- git cd "name of your folder"
+- #git clone git@github.com:Hasinarahman/Technical-documentation-page.git
+- #git cd Technical-documentation-page
 then you can open the folder in your local machine.
 
-when you want to started the to change the project use this command:
+when you want to started changed the project use this commands:
 - git add . "for adding and save the code in folder"
-- git commit -m "changes". for commit massage
+- git commit -m "changes"  "for commit massage"
 - git push. for pushing changes in github
 
 
@@ -45,4 +36,4 @@ when you want to started the to change the project use this command:
 
 ## Author 👩‍💻
 - Email: (hasinarahmani548@gimail.com)
-
+- linked in: (linkedin.com/in/hasina-rahmani-4a21a9311)
